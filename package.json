@@ -1,0 +1,31 @@
+{
+  "name": "reactproject",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashvaishnav07/ReactProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashvaishnav07/ReactProject/issues"
+  },
+  "homepage": "https://github.com/yashvaishnav07/ReactProject#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "reacr": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "src": "^1.1.2"
+  },
+  "description": ""
+}
